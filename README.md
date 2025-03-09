@@ -2,7 +2,7 @@
 
 
 
-<p align="center"><b></B>HTML | CSS | JS | PHP | React | MySQL</b></p>
+<h5 align="center">HTML | CSS | JS | PHP | React | MySQL</h5>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ralfranca/">

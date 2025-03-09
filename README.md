@@ -1,7 +1,8 @@
 <h2 align="center">Rafael França</h2>
 
 
-<p align="center">HTML | CSS | JS | PHP | React | MySQL</p>
+
+<p align="center"><b></B>HTML | CSS | JS | PHP | React | MySQL</b></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ralfranca/">

@@ -1,10 +1,13 @@
-# Rafael França
+<h2 align="center">Rafael França</h2>
 
----
-HTML | CSS | JS | PHP | React | MySQL
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Visite%20meu%20perfil-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/seu-usuario-aqui](https://www.linkedin.com/in/ralfranca/))
+<p align="center">HTML | CSS | JS | PHP | React | MySQL</p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/ralfranca/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
 
 

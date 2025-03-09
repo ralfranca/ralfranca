@@ -5,7 +5,7 @@
 <h5 align="center">HTML | CSS | JS | PHP | React | MySQL</h5>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ralfranca/">
+  <a href="https://www.linkedin.com/in/ralfranca/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>

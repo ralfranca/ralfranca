@@ -1,4 +1,12 @@
-## Hi there 👋
+# Rafael França
+
+---
+HTML | CSS | JS | PHP | React | MySQL
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Visite%20meu%20perfil-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/seu-usuario-aqui](https://www.linkedin.com/in/ralfranca/))
+
+
+
 
 <!--
 **ralfranca/ralfranca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
